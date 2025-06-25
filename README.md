@@ -10,7 +10,7 @@ DOMAIN: FULL STACK WEB DEVELOPMENT
 
 DURATION: 4 WEEKS
 
-MENTOR: NEELA SANTOSH
+MENTOR: NEELA SANTOSH KUMAR
 
 #DESCRIPTION: The Real-Time Collaborative Document Editor is a powerful web application that enables multiple users to work on the same document simultaneously, with changes appearing instantaneously across all connected clients. This application combines the latest web technologies to deliver a seamless collaborative editing experience, complete with rich-text formatting, automatic synchronization, and persistent document storage.
 
