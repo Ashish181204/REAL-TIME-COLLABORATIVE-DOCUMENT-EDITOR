@@ -53,3 +53,8 @@ Server-side code handles document storage and synchronization Client-side code m
 Unlike basic text editors, this implementation:
 
 Supports true real-time collaboration with sub-second updates Maintains full rich-text formatting synchronization Offers reliable persistence through MongoDB Uses efficient delta-based updates rather than full document transfers With its clean codebase and well-chosen technologies, this collaborative editor demonstrates the power of modern web development tools working together to solve real-world collaboration challenges. The application can be easily extended with additional features like user authentication, document versioning, comment threads, or even AI-assisted editing tools.
+
+#OUTPUT
+
+![WhatsApp Image 2025-06-25 at 16 39 21_84e7055a](https://github.com/user-attachments/assets/6b0588c2-23a6-4840-b73d-89dad21c42b5)
+
